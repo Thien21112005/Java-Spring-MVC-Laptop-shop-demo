@@ -8,8 +8,6 @@ public class Hello {
 
     @GetMapping("/")
     public String index() {
-        return "Hello World from Spring Boost";
-
+        return "Hello World from Spring hehe";
     }
-
 }
